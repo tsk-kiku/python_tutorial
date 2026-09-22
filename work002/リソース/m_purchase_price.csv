@@ -1,0 +1,7 @@
+item_code,supplier_code,start_date,end_date,unit_price,moq,lead_time_days
+SCR-M4-10,SUP-A,2020-01-01,,10.5,100 pcs,3
+SCR-M4-10,SUP-B,2023-01-01,,12.0,1 box(500),1
+MTR-DC-001,SUP-C,2022-04-01,2023-03-31,2500,1,14
+MTR-DC-001,SUP-C,2023-04-01,,2800,1 pc,14
+PCB-MAIN-V1,SUP-D,2023-01-01,,15000,5 pcs,30
+SEN-IR-01,SUP-A,2023-01-01,,850,50,5

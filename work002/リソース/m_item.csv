@@ -1,0 +1,9 @@
+item_code,item_name,category
+ROBOT-X,Home Cleaning Robot X,Product
+UNIT-ARM-R,Right Arm Unit,Sub-assembly
+UNIT-LEG,Drive Unit,Sub-assembly
+MTR-DC-001,DC Motor (Standard),Component
+PCB-MAIN-V1,Main Control PCB,Component
+SCR-M4-10,M4 Screw (10mm),Component
+SEN-IR-01,Infrared Sensor,Component
+CHASSIS-01,Main Chassis,Component

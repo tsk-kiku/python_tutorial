@@ -1,0 +1,5 @@
+item_code,location_code,quantity
+ROBOT-X,WH-01,2
+MTR-DC-001,WH-01,15
+SCR-M4-10,WH-02,350
+PCB-MAIN-V1,WH-01,0
